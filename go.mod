@@ -22,7 +22,7 @@ require (
 	github.com/mattn/goveralls v0.0.9
 	github.com/powerman/appcfg v0.6.0
 	github.com/powerman/check v1.3.1
-	github.com/powerman/dockerize v0.14.0
+	github.com/powerman/dockerize v0.16.0
 	github.com/powerman/getenv v0.1.0
 	github.com/powerman/goose/v2 v2.7.0
 	github.com/powerman/must v0.1.0
@@ -34,9 +34,9 @@ require (
 	github.com/prometheus/client_golang v1.10.0
 	github.com/rs/cors v1.7.0
 	github.com/sebest/xff v0.0.0-20210106013422-671bd2870b3a
-	github.com/smartystreets/goconvey v1.6.4
+	github.com/smartystreets/goconvey v1.7.2
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
-	gotest.tools/gotestsum v1.6.4
+	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	gotest.tools/gotestsum v1.7.0
 )

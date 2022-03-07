@@ -25,7 +25,7 @@ require (
 	github.com/powerman/dockerize v0.14.0
 	github.com/powerman/getenv v0.1.0
 	github.com/powerman/goose/v2 v2.7.0
-	github.com/powerman/must v0.1.0
+	github.com/powerman/must v0.1.1
 	github.com/powerman/mysqlx v0.3.3
 	github.com/powerman/narada4d v1.7.1
 	github.com/powerman/sensitive v0.0.6

@@ -831,8 +831,9 @@ github.com/powerman/goose/v2 v2.7.0/go.mod h1:xhmEJVY4uJKRs76TzeDcoPhF8w4A8M98+E
 github.com/powerman/gotest v0.2.0/go.mod h1:vR8gUJorGFev+TucLyhbbx566IelaJFxCSAcDYD4fdY=
 github.com/powerman/gotest v0.3.0 h1:3HdlkyT8XoTIw220BvCP+yy7OhB1AxZ11Qfzn00l3YQ=
 github.com/powerman/gotest v0.3.0/go.mod h1:vR8gUJorGFev+TucLyhbbx566IelaJFxCSAcDYD4fdY=
-github.com/powerman/must v0.1.0 h1:/Romq/snkUx7jU0RVxbaQWo8eoGV5LEFP7lMY2Paq7I=
 github.com/powerman/must v0.1.0/go.mod h1:agQ0zQd+ZBTI+I+KUL9G1l9ZPXTcjzOUfXvZUQpOVwo=
+github.com/powerman/must v0.1.1 h1:AGJ/qXl3rCl5sDSrVZcsLhsO5Ks4vNfbMaDDp5MxXqc=
+github.com/powerman/must v0.1.1/go.mod h1:T2oh9pRqcPFY8ZECe6dDyXwh67MEUw73HYpuLSlpTY0=
 github.com/powerman/mysqlx v0.3.3 h1:eBTeJvrLY+mcacJZekzM3VKCUT8gj/5KKG8f2KYXqzg=
 github.com/powerman/mysqlx v0.3.3/go.mod h1:ZSl17PWU2DgwM2KjN8OrdAq9tYC5p4Xm3lTN6W7j3SA=
 github.com/powerman/narada4d v1.7.1 h1:G6hkEQxfCBWIsrUtB4MyWq4c84qcS/3XsBQLWUuUyik=

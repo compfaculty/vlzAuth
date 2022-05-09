@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/cheekybits/genny v1.0.1-0.20200709201058-3e22f1a88ff2
-	github.com/felixge/httpsnoop v1.0.1
+	github.com/felixge/httpsnoop v1.0.3
 	github.com/go-openapi/errors v0.19.9
 	github.com/go-openapi/loads v0.19.5
 	github.com/go-openapi/runtime v0.19.24
